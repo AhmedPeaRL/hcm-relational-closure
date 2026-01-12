@@ -1,0 +1,6 @@
+{
+  "optimization": {
+    "enabled": false
+  },
+  "principle": "The system does not improve itself."
+}
